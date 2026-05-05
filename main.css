@@ -491,11 +491,11 @@ span{
     border: 1px solid white;
     border-radius: 40px;
 }
-.bib1 p{
-    position: relative;
+.en p{
     color: #363853;
-    right: 14vw;
     font-size: 18px;
+    margin-top: 2.8vh;
+    margin-right: 27vw;
 }
 .goo .ter{
     position: relative;
